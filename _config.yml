@@ -36,5 +36,5 @@ links:
     url: http://twitter.com/torimclay
   - title: "git"
     url: http://github.com/writinggirl
-  - title: "rss"
-    url: /feed.xml
+  - title: "resume"
+    url: /assets/resume.pdf
