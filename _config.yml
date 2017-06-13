@@ -30,11 +30,11 @@ paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "about"
     url: /about
-  - title: "twt"
+  - title: "twitter"
     url: http://twitter.com/torimclay
-  - title: "git"
+  - title: "github"
     url: http://github.com/writinggirl
   - title: "resume"
     url: /images/resume.pdf
