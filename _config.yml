@@ -24,9 +24,18 @@ github_username:  writinggirl
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+paginate: 3
+
+# Links
+links:
+  - title: "abt"
+    url: /about
+  - title: "twt"
+    url: http://twitter.com/torimclay
+  - title: "git"
+    url: http://github.com/writinggirl
+  - title: "rss"
+    url: /feed.xml
