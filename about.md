@@ -11,29 +11,20 @@ permalink: /about/
 
 **Coding Languages**
 
-HTML
-
-CSS/SASS
-
-jQuery
-
-SQL (Microsoft/Postgres)
-
-Python
-
--in process-
-
-Javascript
-
+HTML  
+CSS/SASS  
+jQuery  
+SQL (Microsoft/Postgres)  
+Python  
+-in process-  
+Javascript  
 C#
 
 
 **Design Skills**
 
-Photo retouching and restoration
-
-Logo creation
-
+Photo retouching and restoration  
+Logo creation  
 eCommerce sites
 
 
