@@ -32,8 +32,8 @@ paginate: 3
 links:
   - title: "about"
     url: /about
-  - title: "twitter"
-    url: http://twitter.com/torimclay
+  - title: "linkedin"
+    url: https://www.linkedin.com/in/victoriamclayton
   - title: "github"
     url: http://github.com/writinggirl
   - title: "resume"
